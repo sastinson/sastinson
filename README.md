@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 My name is Sarah(she/her) and I'm a molecular ecologist, supporting resource management and conservation issues in California.
-- 🔭 I’m currently working on environmental DNA monitoring program development with the CA Dept of Water Resources.
-- 🌱 I’m currently learning metabarcoding pipeline development for multi-trophic assessments.
-- 👯 I’m looking to collaborate on metabarcoding studies.
+- 🔭 I’m currently working on developing an environmental DNA monitoring program with the CA Dept of Water Resources.
+- 🌱 I’m currently learning metabarcoding pipeline development for multi-trophic assessments, Azure cloud computing, various genomic wet lab techniques.
+- 👯 I’m looking to collaborate on metabarcoding and eDNA studies.
 - 📫 How to reach me: sassecologist@gmail.com
 
 <!--
